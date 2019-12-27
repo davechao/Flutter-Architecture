@@ -45,6 +45,9 @@ dependencies:
   # Fimber
   fimber: ^0.3.2
 
+  # Stetho
+  flutter_stetho: ^0.5.0
+
   # Equatable
   equatable: ^1.0.0
 
