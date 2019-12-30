@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_architecture/page/scoped_model/youbike_scoped_model_page.dart';
-import 'package:flutter_architecture/scoped_model/YouBikeScopedModel.dart';
+import 'package:flutter_architecture/scoped_model/youbike_scoped_model.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 class ScopedModelPage extends StatefulWidget {
