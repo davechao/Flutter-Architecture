@@ -27,10 +27,10 @@ dependencies:
   # scoped model
   scoped_model: ^1.0.1
 
-  # page.bloc
+  # bloc
   bloc: ^2.0.0
 
-  # flutter page.bloc
+  # flutter bloc
   flutter_bloc: ^2.1.1
 
   # fish redux
